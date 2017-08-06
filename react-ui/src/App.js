@@ -263,6 +263,8 @@ class App extends React.Component {
             removeStock={this.removeStock.bind(this)}
             addStock={this.addStock.bind(this)}
             message={this.state.message} />
+            <p id="footnote">Coded by Elliot Zoerner. <a target="_blank"
+            href="https://github.com/elliotjz/stock-market-chart-react">Source Code</a></p>
           </div>
       );
     }

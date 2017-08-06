@@ -129,3 +129,8 @@ button:focus {
   border-radius: 5px;
   border: #560808 solid 1px;
 }
+
+#footnote {
+  font-size: 12px;
+}
+
